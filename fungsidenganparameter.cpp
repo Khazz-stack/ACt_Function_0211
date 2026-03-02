@@ -1,6 +1,6 @@
 //library
 #include <iostream>
-using namespacestd;
+using namespace std;
 //deklarasi variable global
 int panjang, lebar;
 //implementasi fungsi dan prosedur
@@ -13,7 +13,7 @@ void input(){
 int luaspersegi(int a,int b){
     return a * b;
 }
-int jumlah(int x, int y, intz){
+int jumlah(int x, int y, int z){
     return x+y+z;
 }
 void output(){
