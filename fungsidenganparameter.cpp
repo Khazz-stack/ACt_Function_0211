@@ -19,3 +19,8 @@ int jumlah(int x, int y, intz){
 void output(){
     cout << "Hasilnya : " << luaspersegi(panjang,lebar) << endl;
 }
+int main(){ //mulai
+    input();
+    output();
+    cout <<"Hasilnya dari pejumlahan : " << jumlah(3,2,7);
+}//selesai
